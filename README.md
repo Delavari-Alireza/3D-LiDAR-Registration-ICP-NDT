@@ -39,7 +39,7 @@ I noticed a lack of well‑documented, Python‑native NDT implementations. By s
 1. **Clone the repository**
 
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/Delavari-Alireza/Python-Toolkit-for-3D-LiDAR-Registration-ICP-NDT
    cd Vision3D_Registration
    ```
 
