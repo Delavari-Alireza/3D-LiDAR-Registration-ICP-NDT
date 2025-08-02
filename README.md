@@ -24,7 +24,7 @@ I noticed a lack of well‑documented, Python‑native NDT implementations. By s
 │  └─ readme.txt                   # KITTI sequence description
 
 ├─ ICP.py                          # Open3D‑based ICP wrapper
-├─ NDT.py                          # Custom Python binding for NDT alignment
+├─ NDT.py                          # point_cloud_registration NDT alignment
 ├─ ICP_on_kittiDataset.py          # Driver script: running ICP over KITTI frames
 ├─ NDT_on_kittiDataset.py          # Driver script: running NDT over KITTI frames
 ├─ utilities.py                    # .bin → Open3D point‑cloud loader
