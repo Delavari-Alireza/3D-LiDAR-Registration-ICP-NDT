@@ -9,9 +9,9 @@
 This repository demonstrates two industry‑standard methods for point‑cloud registration:
 
 1. **Iterative Closest Point (ICP)** – leveraging Open3D’s built‑in algorithms for point‑to‑point alignment
-2. **Normal Distributions Transform (NDT)** – a custom Python/C++ binding to fill the gap in existing NDT documentation and libraries
+2. **Normal Distributions Transform (NDT)** – using point-cloud-registration library
 
-I noticed a lack of well‑documented, Python‑native NDT implementations. By sharing this code, I aim to accelerate research and application of NDT in the Python ecosystem.
+I noticed a lack of well‑documented, Python‑native NDT documentation. By sharing this code, I aim to accelerate research and application of NDT in the Python ecosystem.
 
 ---
 
