@@ -2,6 +2,8 @@
 
 **A compact toolkit for 3D LiDAR scan alignment on KITTI data using both ICP and NDT**
 
+![icp_before_after](images/icp_before_after.png "icp_before_after")
+![global map](images/ndt_global_map.png "Global Map")
 ---
 
 ## 🚀 Project Overview
@@ -85,9 +87,13 @@ I noticed a lack of well‑documented, Python‑native NDT documentation. By sha
 ## 📈 Results Highlights
 
 * **Trajectories**: Side‑by‑side 2D plots of ICP vs. NDT vs. ground truth
+ ![Trajectories](images/trajectory_comparison.png "Trajectories")
 * **Errors**: Final & average displacement error metrics for both methods
 * **3D Maps**: Fused LiDAR scans showing map consistency and alignment quality
-
+ICP:
+![ICP](images/icp_global_map.png "ICP")
+NDT:
+![NDT](images/ndt_global_map.png "NDT")
 ---
 
 ## 💡 Key Contributions
