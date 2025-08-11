@@ -89,6 +89,7 @@ I noticed a lack of well‑documented, Python‑native NDT documentation. By sha
 * **Trajectories**: Side‑by‑side 2D plots of ICP vs. NDT vs. ground truth
  ![Trajectories](images/trajectory_comparison.png "Trajectories")
 * **Errors**: Final & average displacement error metrics for both methods
+  
   Please refer to the notebook
 * **3D Maps**: Fused LiDAR scans showing map consistency and alignment quality
 ICP:
