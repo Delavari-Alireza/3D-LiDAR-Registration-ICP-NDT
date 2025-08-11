@@ -41,7 +41,7 @@ I noticed a lack of well‑documented, Python‑native NDT documentation. By sha
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Delavari-Alireza/Python-Toolkit-for-3D-LiDAR-Registration-ICP-NDT
+   git clone https://github.com/Delavari-Alireza/3D-LiDAR-Registration-ICP-NDT
    ```
 
 2. **Install dependencies**
